@@ -4,7 +4,11 @@ lp_solve library for php7 and Dockerfile
 This repositories is a compilation for codes from 
 https://github.com/myfarms/php_lp_solve
 
-Install instruction
+Building docker image
+
+`$ docker build -t php-solve .`
+
+
 
 
 
